@@ -38,6 +38,18 @@
 `Python` `XGBoost` `LSTM` `SHAP` `Scikit-learn` `Streamlit` `OpenWeatherMap API`
 
 ---
+ 
+### 🗺️ SkillMap Goa — Student Data Management Portal *(NITI Aayog Initiative)*
+> Secure web portal for university-level student data management & employment tracking — aligned with NITI Aayog's higher-education analytics objectives
+ 
+- 🖥️ **My Role:** Solely developed the entire frontend — React.js, UI/UX, dashboard design & Google Sheets API integration
+- 📊 **Dashboards:** Interactive visualizations of student employment status and skill gaps identified by industry and alumni — actionable insights for department heads
+- 🔗 **Google Sheets API:** Seamless sync between spreadsheet records and the portal, eliminating manual data entry for administrators
+- 🚀 **Deployed:** Frontend on Vercel, coordinated with teammates on Render backend for full production delivery
+`React.js` `Google Sheets API` `REST APIs` `Vercel` `Render`
+ 
+---
+
 
 ### 🏨 [Ocean Suite — Hotel Booking Platform](https://github.com/arpitagwd/Ocean_Suite_Website)
 > Full-stack MERN booking system replacing a generic WordPress site for a luxury Goa boutique hotel
@@ -74,21 +86,8 @@ Tools          →  Git  |  GitHub  |  Streamlit  |  Power BI  |  Android Studio
 Deployment     →  Vercel  |  Render  |  Streamlit Cloud
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitagwd&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagwd&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-## 🏅 Achievements & Responsibilities
+## 🏅 Responsibilities
 
 - 📄 Volunteer — State Level Research Paper Presentation, Panjim (2024)
 - 🏊 Volunteer — Aquamoga Triathlon Event, Goa (2025)

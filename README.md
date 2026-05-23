@@ -19,7 +19,6 @@
 - 🎓 Pursuing **MCA at Goa Business School, Goa University** (2025–2027)
 - 🏆 BSc Computer Science — **CGPA 9.45/10** from Dhempe College, Goa University
 - 💡 I love building end-to-end systems that solve real problems — not just CRUD apps
-- 🔬 Currently exploring **MLOps, cloud deployment, and GenAI integrations**
 - 📍 Based in Porvorim, Goa, India
 
 ---
@@ -47,7 +46,6 @@
 - 🔐 **Auth:** JWT-based login + role-based access control (guest vs admin flows)
 - 📅 **Booking:** Real-time room availability search, date selection, reservation submission
 - 🛠️ **Admin Dashboard:** Booking management, room CRUD, guest enquiry handling
-- 🚀 **Deployed:** Live on Vercel (frontend) + Render (backend)
 
 `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Vercel` `Render`
 

@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · ML Engineer · MCA Candidate @ Goa University**
 
-*Building intelligent, real-world web systems — from ML-powered AQI forecasting to hotel booking platforms*
+*Building intelligent, real-world web systems — from ML-powered AQI forecasting to virtual tryon E-commerce platforms*
 
 [![Email](https://img.shields.io/badge/arpitagawade03@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arpitagawade03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpitagawade)

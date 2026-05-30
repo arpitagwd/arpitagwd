@@ -85,14 +85,6 @@ Tools          →  Git  |  GitHub  |  Streamlit  |  Power BI  |  Android Studio
 Deployment     →  Vercel  |  Render  |  Streamlit Cloud
 ```
 
-
-## 🏅 Responsibilities
-
-- 📄 Volunteer — State Level Research Paper Presentation, Panjim (2024)
-- 🏊 Volunteer — Aquamoga Triathlon Event, Goa (2025)
-
----
-
 ## 🎨 Outside of Code
 
 `Drawing` `Art & Craft` `Video Editing`

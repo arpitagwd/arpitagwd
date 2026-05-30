@@ -2,7 +2,6 @@
 
 # Hi, I'm Arpita Anant Gawade 👋
 
-**MCA Candidate @ Goa University**
 
 *Building intelligent, real-world web systems — from ML-powered AQI forecasting to virtual tryon E-commerce platforms*
 

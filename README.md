@@ -2,7 +2,7 @@
 
 # Hi, I'm Arpita Anant Gawade 👋
 
-**Full-Stack Developer · ML Engineer · MCA Candidate @ Goa University**
+**MCA Candidate @ Goa University**
 
 *Building intelligent, real-world web systems — from ML-powered AQI forecasting to virtual tryon E-commerce platforms*
 
